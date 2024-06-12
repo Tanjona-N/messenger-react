@@ -43,13 +43,9 @@
   },
   "devDependencies": {
     "gh-pages": "^6.1.1"
-<<<<<<< HEAD
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
   "author": "",
   "license": "ISC"
-=======
-  }
->>>>>>> 09df56cb12ee399064e8efabdcac3b3c4014477d
 }

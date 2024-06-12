@@ -5,7 +5,6 @@ import { useState } from "react";
 import Button from "react-bootstrap/Button";
 import Modal from "react-bootstrap/Modal";
 import "mdb-react-ui-kit/dist/css/mdb.min.css";
-import { MDBBtn, MDBContainer, MDBScrollbar } from "mdb-react-ui-kit";
 import Chat from "./chat/Chat";
 
 const App = () => {
@@ -15,10 +14,6 @@ const App = () => {
   return (
     <div>
       <Chat />
-      <MDBContainer className="mt-5">
-        <h1>Hello, world!</h1>
-        <MDBBtn color="primary">Click me</MDBBtn>
-      </MDBContainer>
       <h1 className="text-danger fw-bold">Hello, world!</h1>
       <p className="pb-3 pt-3">
         lorem ipsum dolr lorem ipsum dolr lorem ipsum dolr
